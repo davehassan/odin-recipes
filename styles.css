@@ -1,5 +1,6 @@
 * {
-    font : Helvetica;
-    color:blue;
-    background-color: darkslategrey;
+    font-family : sans-serif;
+    color: rgb(200, 238, 219);
+    background-color: rgb(8, 25, 25);
 }
+
